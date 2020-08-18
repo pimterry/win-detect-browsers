@@ -1,6 +1,6 @@
 {
-  "name": "win-detect-browsers",
-  "version": "6.0.0",
+  "name": "@httptoolkit/win-detect-browsers",
+  "version": "6.0.1-node14",
   "description": "Fast and native browser detection on Windows",
   "author": "Vincent Weevers",
   "license": "MIT",
@@ -38,8 +38,8 @@
     "win-dummy-exe": "0.0.1"
   },
   "repository": "vweevers/win-detect-browsers",
-  "bugs": "https://github.com/vweevers/win-detect-browsers/issues",
-  "homepage": "https://github.com/vweevers/win-detect-browsers",
+  "bugs": "https://github.com/pimterry/win-detect-browsers/issues",
+  "homepage": "https://github.com/pimterry/win-detect-browsers",
   "keywords": [
     "browser",
     "browsers",
